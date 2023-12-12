@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiccionarioApp</string>
+    <string name="title_activity_creditos">CreditosActivity</string>
+    <string name="title_activity_como_jugar">ComoJugarActivity</string>
+    <string name="title_activity_jugar">JugarActivity</string>
+    <string name="title_activity_mesa">MesaActivity</string>
+    <string name="title_activity_unirse_mesa">UnirseMesaActivity</string>
+    <string name="title_activity_pre_mesa_nombre">PreMesaNombre</string>
+    <string name="title_activity_unido_mesa">UnidoMesaActivity</string>
+    <string name="title_activity_juego">JuegoActivity</string>
+</resources>

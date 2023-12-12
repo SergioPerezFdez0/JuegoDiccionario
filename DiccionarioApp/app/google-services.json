@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436379365910",
+    "project_id": "diccionario2-4c4d0",
+    "storage_bucket": "diccionario2-4c4d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436379365910:android:73745aa1eb3714861e7b37",
+        "android_client_info": {
+          "package_name": "es.sergiop.diccionarioapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4B9TuRPJLThEf2xHxsBN41luUdz2PKrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
